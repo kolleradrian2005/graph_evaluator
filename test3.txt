@@ -1,0 +1,19 @@
+5
+a
+b
+c
+s
+e  
+12
+s a
+a s
+a b
+b a
+b c
+c b
+a c
+c a
+e b
+b e
+s e
+e s
